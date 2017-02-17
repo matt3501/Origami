@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\cplankm\Downloads\HolographicAcademy-Holograms-101\Origami\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{c13c9215-a861-4125-be58-b0d043e0b7e7}</Project>
+      <Project>{bb822a9e-b185-4be1-ba86-dcc405a6b844}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <Reference Include="UnityEngine">
