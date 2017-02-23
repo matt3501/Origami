@@ -87,6 +87,7 @@
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
     <Compile Include="Assets\Scripts\SpeechManager.cs" />
     <Compile Include="Assets\Scripts\SphereCommands.cs" />
+    <Compile Include="Assets\Scripts\SphereSounds.cs" />
     <Compile Include="Assets\Scripts\WorldCursor.cs" />
   </ItemGroup>
   <ItemGroup>
