@@ -205,12 +205,12 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\cplankm\Downloads\HolographicAcademy-Holograms-101\Origami\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{8da43ca1-50d8-4ee5-9d69-1b71fc9459ef}</Project>
+      <Project>{47fd7c82-e200-44ed-8a55-19f1423794e6}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\cplankm\Downloads\HolographicAcademy-Holograms-101\Origami\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{bb822a9e-b185-4be1-ba86-dcc405a6b844}</Project>
+      <Project>{b07f6cf5-bf39-4b99-afc9-2f47947583dd}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>
