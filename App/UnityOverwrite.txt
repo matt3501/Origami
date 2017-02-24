@@ -9,7 +9,7 @@ Origami.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 Origami\App.cs: 29444E47BD566CE7384F773B0A49C3C4
-Origami\Origami.csproj: 20BF4F2DA948FAA0CFB35DFB871A6E00
+Origami\Origami.csproj: 137B7E03C3BA7EF959249B0C12FA75B1
 Origami\Origami.csproj.user: modified
 Origami\Package.appxmanifest: A864A5B0B79C8102B621A12F35F22870
 Origami\project.json: 1D02BC64BAC0D041019673A1C4C51737
